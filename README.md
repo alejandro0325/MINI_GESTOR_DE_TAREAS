@@ -41,3 +41,6 @@ URLS usadas por Angular
 
 Python http://localhost:8000/tasks
 .NET   http://localhost:5175/api/tasks
+
+NOTA: con el comando cd ir seleccionanado las carpetas de cada proyecto para que los comandos se ejecuten correctamente en la ruta indicada.
+Cada uno en terminal diferente.
